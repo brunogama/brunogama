@@ -1,1 +1,1 @@
-Currently working on (CWI)[https://cwi.com.br/]. Right now my blog isn't ready but you can follow me at [@brunogama on Twitter](https://twitter.com/brunogama).
+Currently working on [CWI](https://cwi.com.br/). Right now my blog isn't ready but you can follow me at [@brunogama on Twitter](https://twitter.com/brunogama).
