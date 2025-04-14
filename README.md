@@ -1,33 +1,20 @@
-# 👋 Hey there, I'm Bruno!
+# Hey there, I'm Bruno
 
-iOS Engineer by day, code enthusiast by night. I'm passionate about building secure, beautiful mobile experiences that make a difference.
+iOS Engineer by day, code enthusiast by night. I focus on building secure, elegant mobile applications that make a genuine impact.
 
-## 💻 What I'm up to
+## Current Focus
 
-Currently cooking up Swift magic at Inter, where I help protect over 25 million users daily. I'm all about:
+I'm currently creating Swift magic at [Inter])[https://www.inter.co], safeguarding over 25 million users every day through:
+	- Rigorous security features
+	- SwiftUI-driven interfaces
+	- Clean MVVM architecture
+	- Leadership and mentoring
 
-- 🔐 Building rock-solid security features
-- 📱 Crafting slick SwiftUI interfaces
-- 🏗️ Architecting with MVVM
-- 👥 Leading awesome teams
+## Toolbox
+	- Swift, SwiftUI, UIKit
+	- MVVM, Clean Architecture
+	- Security Engineering, Fraud Prevention, Liveness Detection
 
-## 🛠️ My Toolbox
+## Professional Journey
 
-Swift | SwiftUI | UIKit | MVVM | Security Engineering | Fraud Prevention | Liveness Detection
-
-## 🚀 My Journey
-
-I've spent the last 4+ years deep in the iOS world, with a special focus on security and fraud prevention. Before that, I built apps across all sorts of industries from retail to e-commerce and even dabbled in some machine learning projects.
-
-I believe great code should be both secure AND beautiful - why choose when you can have both? I'm always exploring better ways to build things and love sharing what I learn along the way.
-
-## 🤙 Let's Connect!
-
-- ✉️ Email: hi@bruno.foundation
-- 🐦 Twitter: [@brunogama](https://twitter.com/brunogama)
-- 💼 LinkedIn: [Bruno da Gama Porciuncula](https://www.linkedin.com/in/bruno-da-gama-porciuncula)
-- 👨‍💻 GitHub: You're already here! Check out my [projects](https://github.com/brunogama?tab=repositories)
-
-## 💬 Get in Touch
-
-Got an interesting project idea? Need help with iOS development or security engineering? Or just want to chat about the latest in Swift? Drop me a line - I'm always up for connecting with fellow developers!
+Over the past four years, I've delved deep into iOS development with a specialization in security and fraud prevention. Before that, I worked on apps in retail, e-commerce, and even contributed to machine learning initiatives. My core belief is that code should be both secure and visually appealing—there's no reason to compromise on either.
