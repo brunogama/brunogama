@@ -4,7 +4,7 @@ iOS Engineer by day, code enthusiast by night. I focus on building secure, elega
 
 ## Current Focus
 
-I'm currently creating Swift magic at [Inter])[https://www.inter.co], safeguarding over 25 million users every day through:
+I'm currently creating Swift magic at [Inter](https://www.inter.co), safeguarding over 25 million users every day through:
 	- Rigorous security features
 	- SwiftUI-driven interfaces
 	- Clean MVVM architecture
